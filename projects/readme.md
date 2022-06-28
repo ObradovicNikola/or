@@ -4,10 +4,10 @@
 
 Algorithm to find minimal spanning tree in a graph.
 
-[asm](/prim-algorithm.asm)
+[asm](/projects/prim-algorithm.asm)
 
 ## substrings
 
 Find longest nonrepeating substrings
 
-[asm](/longest-nonrepeating-chars-substring.asm)
+[asm](/projects/longest-nonrepeating-chars-substring.asm)
